@@ -22,3 +22,33 @@ As from the above challenges the DINODE-AVR was born, We decided to develop a De
 
 ## VISION
 To have more students get into Embedded systems and IoT development with a firm understanding of the basics.
+
+# DINODE-AVR DEV-BOARD
+The development board comes with an inbuilt user-led, user-potentiometer as well as "plug and play" sockets for LCD screen, ESP8266 and GSM SIM800L V2.0 to aid in IoT projects.
+
+## LCD SCREEN PIN CONNECTIONS
+
+        LCD       DINODE-AVR
+        RS          PB0
+        RW          PB1
+        E           PB2
+        D0          PC0
+        D1          PC1
+        D2          PC2
+        D3          PC3
+        D4          PC4
+        D5          PC5
+        D6          PC6
+        D7          PC7
+        A           +5V
+        K           GND
+        VSS         GND
+        VDD         +5V
+
+## USER-LED
+The inbuilt USER-LED is connected to pin PD7 of the DINODE-AVR with a current limmiting resistor of 220 ohms
+
+## USER-POTENTIOMETER
+The user potentiometer is connected to pin PA0 of the DINODE-AVR
+
+

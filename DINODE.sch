@@ -1137,7 +1137,7 @@ F 3 "" H 10350 5450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Text GLabel 10400 6150 0    50   Input ~ 0
-PC_7
+PD_5
 Wire Wire Line
 	10350 5450 10550 5450
 Wire Wire Line
@@ -1346,10 +1346,10 @@ Wire Wire Line
 Wire Wire Line
 	7650 950  7900 950 
 $Comp
-L power:+3.3V #PWR?
+L power:+3.3V #PWR0101
 U 1 1 5DEAA72D
 P 7450 3000
-F 0 "#PWR?" H 7450 2850 50  0001 C CNN
+F 0 "#PWR0101" H 7450 2850 50  0001 C CNN
 F 1 "+3.3V" H 7465 3173 50  0000 C CNN
 F 2 "" H 7450 3000 50  0001 C CNN
 F 3 "" H 7450 3000 50  0001 C CNN
