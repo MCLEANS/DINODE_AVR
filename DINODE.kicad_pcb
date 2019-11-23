@@ -722,7 +722,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5DD8B176)
-    (at 128.27 64.77)
+    (at 131.445 53.975)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5DCF39B0)
@@ -792,7 +792,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5DD8B1BC)
-    (at 142.875 56.515 180)
+    (at 144.78 56.515 180)
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /5DCED46A)
@@ -1343,7 +1343,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5DD90F89)
-    (at 135.89 57.785 180)
+    (at 139.065 57.785 180)
     (descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x03 2.54mm single row")
     (path /5DD2049E)
@@ -1580,7 +1580,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5DD8FD77)
-    (at 122.8575 64.77)
+    (at 132.715 60.325)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
     (path /5DCF5404)
@@ -2051,7 +2051,7 @@
   )
 
   (module Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical (layer F.Cu) (tedit 5A3D4993) (tstamp 5DD8C486)
-    (at 135.255 70.485)
+    (at 123.19 69.85)
     (descr "Potentiometer, vertical, Piher PT-6-V, http://www.piher-nacesa.com/pdf/11-PT6v03.pdf")
     (tags "Potentiometer vertical Piher PT-6-V")
     (path /5DF8E2E9)

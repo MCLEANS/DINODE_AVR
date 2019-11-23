@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source E:\KICAD\DINODE-AVR\DINODE\DINODE.sch)
-    (date "11/22/2019 4:55:40 PM")
+    (date "11/23/2019 8:28:13 AM")
     (tool "Eeschema (5.1.2)-2")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
