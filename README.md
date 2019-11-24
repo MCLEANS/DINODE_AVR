@@ -51,4 +51,6 @@ The inbuilt USER-LED is connected to pin PD7 of the DINODE-AVR with a current li
 ## USER-POTENTIOMETER
 The user potentiometer is connected to pin PA0 of the DINODE-AVR
 
+## ESP8266 CONNECTION
+
 
