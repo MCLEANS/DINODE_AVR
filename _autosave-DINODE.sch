@@ -1313,7 +1313,7 @@ $EndComp
 Wire Wire Line
 	650  1200 650  850 
 Wire Wire Line
-	650  850  1000 850 
+	650  850  800  850 
 Wire Wire Line
 	1000 850  1250 850 
 Connection ~ 1000 850 
@@ -1488,4 +1488,20 @@ Wire Notes Line
 	5150 7600 5150 6200
 Wire Notes Line
 	550  500  550  1750
+$Comp
+L power:+12V #PWR0105
+U 1 1 5DEF303B
+P 800 750
+F 0 "#PWR0105" H 800 600 50  0001 C CNN
+F 1 "+12V" H 815 923 50  0000 C CNN
+F 2 "" H 800 750 50  0001 C CNN
+F 3 "" H 800 750 50  0001 C CNN
+	1    800  750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  750  800  850 
+Connection ~ 800  850 
+Wire Wire Line
+	800  850  1000 850 
 $EndSCHEMATC
