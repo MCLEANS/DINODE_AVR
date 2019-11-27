@@ -275,7 +275,7 @@ Wire Notes Line
 Text GLabel 3950 4150 2    50   Input ~ 0
 MOSI
 Text GLabel 4400 4250 2    50   Input ~ 0
-MOSI
+MISO
 Text GLabel 3950 4350 2    50   Input ~ 0
 SCK
 $Comp
@@ -1313,7 +1313,7 @@ $EndComp
 Wire Wire Line
 	650  1200 650  850 
 Wire Wire Line
-	650  850  1000 850 
+	650  850  800  850 
 Wire Wire Line
 	1000 850  1250 850 
 Connection ~ 1000 850 
@@ -1340,7 +1340,7 @@ Wire Wire Line
 	1000 1150 1000 1200
 Connection ~ 1000 1200
 Wire Wire Line
-	1850 2750 2150 2750
+	1850 2750 2050 2750
 Wire Wire Line
 	7650 950  7900 950 
 $Comp
@@ -1488,4 +1488,27 @@ Wire Notes Line
 	5150 7600 5150 6200
 Wire Notes Line
 	550  500  550  1750
+$Comp
+L power:+12V #PWR0105
+U 1 1 5DEF303B
+P 800 750
+F 0 "#PWR0105" H 800 600 50  0001 C CNN
+F 1 "+12V" H 815 923 50  0000 C CNN
+F 2 "" H 800 750 50  0001 C CNN
+F 3 "" H 800 750 50  0001 C CNN
+	1    800  750 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  750  800  850 
+Connection ~ 800  850 
+Wire Wire Line
+	800  850  1000 850 
+Text GLabel 2050 2650 1    50   Input ~ 0
+RESET
+Wire Wire Line
+	2050 2650 2050 2750
+Connection ~ 2050 2750
+Wire Wire Line
+	2050 2750 2150 2750
 $EndSCHEMATC
