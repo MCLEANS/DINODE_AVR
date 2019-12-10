@@ -1,5 +1,8 @@
 # DINODE-AVR
 An IOT development board based on ATMEGA32-16AU
+        
+        ATMEGA32-16AU DATASHEET
+        http://ww1.microchip.com/downloads/en/devicedoc/doc2503.pdf
 
 
 ## BACKGROUND
