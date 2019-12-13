@@ -1,5 +1,8 @@
 # DINODE-AVR
 An IOT development board based on ATMEGA32-16AU
+        
+        ATMEGA32-16AU DATASHEET
+        http://ww1.microchip.com/downloads/en/devicedoc/doc2503.pdf
 
 
 ## BACKGROUND
@@ -25,6 +28,8 @@ To have more students get into Embedded systems and IoT development with a firm 
 
 # DINODE-AVR DEV-BOARD
 The development board comes with an inbuilt user-led, user-potentiometer as well as "plug and play" sockets for LCD screen, ESP8266 and GSM SIM800L V2.0 to aid in IoT projects.
+
+![DINODE-AVR DEVBOARD](https://github.com/MCLEANS/DINODE_AVR/blob/master/DINODE.png)
 
 ## LCD SCREEN PIN CONNECTIONS
 
