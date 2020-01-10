@@ -1009,9 +1009,9 @@ PC_3
 Text GLabel 6300 4650 0    50   Input ~ 0
 PC_2
 Text GLabel 6300 4750 0    50   Input ~ 0
-PC_1
+PD_7
 Text GLabel 6300 4850 0    50   Input ~ 0
-PC_0
+PD_6
 Text GLabel 6300 4950 0    50   Input ~ 0
 PB_2
 Text GLabel 6300 5050 0    50   Input ~ 0
