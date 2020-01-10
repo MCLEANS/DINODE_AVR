@@ -1,4 +1,4 @@
-update=11/27/2019 12:38:22 PM
+update=1/10/2020 3:16:56 PM
 version=1
 last_client=kicad
 [general]
@@ -17,15 +17,15 @@ version=1
 PageLayoutDescrFile=
 LastNetListRead=DINODE.net
 CopperLayerCount=2
-BoardThickness=1.6
+BoardThickness=1
 AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.2
-MinViaDiameter=0.4
+MinTrackWidth=0.25
+MinViaDiameter=0.5
 MinViaDrill=0.3
-MinMicroViaDiameter=0.2
+MinMicroViaDiameter=0.5
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.3

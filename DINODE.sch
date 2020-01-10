@@ -1544,6 +1544,4 @@ F 3 "~" H 3100 7250 50  0001 C CNN
 	1    3100 7250
 	1    0    0    -1  
 $EndComp
-Text Label 5850 2350 0    50   ~ 0
-ESP8266
 $EndSCHEMATC
