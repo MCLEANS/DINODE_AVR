@@ -1,0 +1,26 @@
+Reference	 Quantity	 Value	 Footprint	 Datasheet
+C1 C2 	2	22pF	Capacitor_SMD:C_0805_2012Metric	~
+C3 	1	100uF	Capacitor_THT:CP_Radial_D8.0mm_P5.00mm	~
+C4 	1	10uF	Capacitor_THT:CP_Radial_D8.0mm_P5.00mm	~
+C6 C5 	2	0.1uF	Capacitor_SMD:C_0805_2012Metric	~
+D1 D2 	2	LED	LED_THT:LED_D3.0mm	~
+H1 H2 H3 	3	MountingHole	MountingHole:MountingHole_3.2mm_M3	~
+J1 	1	Barrel_Jack	Connector_BarrelJack:BarrelJack_Horizontal	~
+J10 	1	Conn_01x03_Male	Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical	~
+J12 	1	Conn_01x03_Female	Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical	~
+J2 	1	Conn_01x02_Male	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	~
+J3 	1	Conn_01x07	Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical	~
+J4 	1	Conn_01x16	Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical	~
+J5 J13 	2	Conn_02x04_Odd_Even	Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical	~
+J6 J9 J7 J11 	4	Conn_02x04_Odd_Even	Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Horizontal	~
+J8 	1	AVR-ISP-6	Connector_IDC:IDC-Header_2x03_P2.54mm_Horizontal	 ~
+R1 	1	1K	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	~
+R2 	1	2K	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal	~
+R3 	1	220 ohms	Resistor_SMD:R_0805_2012Metric	~
+R4 	1	220ohms	Resistor_SMD:R_0805_2012Metric	~
+RV1 RV2 	2	R_POT	Potentiometer_THT:Potentiometer_Piher_PT-6-V_Vertical	~
+SW1 	1	SW_Push	Button_Switch_THT:SW_PUSH_6mm_H5mm	~
+U1 	1	L7805	digikey-footprints:TO-220-3	http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf
+U2 	1	ATmega32-16AU	Package_QFP:TQFP-44_10x10mm_P0.8mm	http://ww1.microchip.com/downloads/en/DeviceDoc/doc2503.pdf
+U3 	1	LM1117-3.3	digikey-footprints:SOT-223	http://www.ti.com/lit/ds/symlink/lm1117.pdf
+Y1 	1	16MHz	Crystal:Crystal_HC49-U_Vertical	~
